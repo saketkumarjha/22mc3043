@@ -5,7 +5,7 @@ import {
   CreateUrlRequest,
   CreateUrlResponse,
   StatisticsResponse,
-} from "../types/urlTypes"
+} from "../src/models/shortUrl"
 
 export class UrlController {
   // Create Short URL - POST /shorturls
